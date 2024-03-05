@@ -1,0 +1,8 @@
+@charset "ISO-8859-1";
+.scroller {
+    width: 850px;
+    height: 250px;
+    overflow-y: scroll;
+    scrollbar-color: rebeccapurple green;
+    scrollbar-width: thin;
+    }
