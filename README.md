@@ -1,2 +1,2 @@
 # NeoBank
-It's an digital bank's net banking website.
+It's an NEO bank's net banking website.
